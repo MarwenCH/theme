@@ -9,6 +9,8 @@ Sample style backend theme with hide/show menu option.
     'author': 'Marwen CHAARI',
     'website': 'https://www.genext-it.com',
     'version': '1.0',
+    'price': 20.00,
+    'currency': 'EUR',
     'icon': "/Sample_style/static/img/icon.png",
     'images': ['static/img/module_image.png'],
     'depends': ['base'],
