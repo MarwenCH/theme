@@ -10,7 +10,7 @@ Sample style backend theme with hide/show menu option.
     'website': 'https://www.genext-it.com',
     'version': '1.0',
     'icon': "/Sample_style/static/img/icon.png",
-    'images': ['static/description/image1.png'],
+    'images': ['static/img/module_image.png'],
     'depends': ['base'],
     'license': 'AGPL-3',
     'summary': 'Theme,odoo,sample,style',
