@@ -24,5 +24,4 @@ Sample style backend theme with hide/show menu option.
     
     'installable': True,
     'auto_install': False,
-    'application': True,
 }
