@@ -1,6 +1,6 @@
 {
     'name': 'Sample Style',
-    'category': 'Theme/Creative',
+    'category': 'Theme/Backend',
     'description': """
 Sample style backend theme with hide/show menu option.
 ========================
