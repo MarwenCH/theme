@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<openerp>
+	<data>
+		<!--edit image -->
+		<template id="sample_img" name="Sample_img" inherit_id="web.menu_secondary">
+			<xpath expr="//img[@src='/web/binary/company_logo']" position="replace">
+				<img src='/web/binary/image/' />
+			</xpath>
+		</template>
+	</data>
+</openerp>
